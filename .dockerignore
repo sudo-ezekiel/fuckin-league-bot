@@ -1,0 +1,8 @@
+/build
+/.idea
+.gradle
+settings.example.env
+settings.env
+README.md
+gradlew.bat
+start.sh
