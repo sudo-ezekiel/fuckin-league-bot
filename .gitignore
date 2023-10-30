@@ -2,3 +2,5 @@
 /.idea
 .gradle
 settings.env
+/bot-env
+.cache
